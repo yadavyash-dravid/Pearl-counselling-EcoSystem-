@@ -1,0 +1,8 @@
+{
+  "name": "Pearl Counsellors",
+  "description": "Psychology Assessment & Clinical Intelligence Ecosystem uniting hierarchical psychometrics, professional networks, referral revenue attribution, enterprise cohorts, and clinician-reviewed AI insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
